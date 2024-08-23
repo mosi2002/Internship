@@ -18,6 +18,6 @@ pip install deepface
 ```
 
 1) run **register_person.py** to generate a pickle file for dataset.
-2) run **camera.py** ro detect that registered person
+2) run **camera.py** ro detect that registered person.
 
 
