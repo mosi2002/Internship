@@ -5,16 +5,19 @@ This is my project as summer intern in FTM. FTM is engineering company with the 
 ## Clone the Repository:
 
 ```
-git clone https://github.com/mosi2002/VHDL_simulation_ATM.git
+git clone https://github.com/mosi2002/Internship.git
 ```
 
 ## Usage 
 Instructions on how to run the code, experiments, and reproduce results.
-just run main parts in folders. for more information send email:
+
+installing deepface:
 
 ```
-nesaeian.mostafa@gmail.com
+pip install deepface
 ```
+
+1) run **create_dataset.py** to generate a synthetic dataset of your liking.
 ## Results
 
 Main RTL:
