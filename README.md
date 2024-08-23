@@ -17,14 +17,7 @@ installing deepface:
 pip install deepface
 ```
 
-1) run **create_dataset.py** to generate a synthetic dataset of your liking.
-## Results
-
-Main RTL:
+1) run **register_person.py** to generate a pickle file for dataset.
+2) run **camera.py** ro detect that registered person
 
 
-![image](https://github.com/user-attachments/assets/b193eb14-fc13-42b6-9f46-791a4ba8890c)
-
-Cash Withdrawal:
-
-![image](https://github.com/user-attachments/assets/79428ed6-6e2d-4dd4-abbe-369332abf51f)
